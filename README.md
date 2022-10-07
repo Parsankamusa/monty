@@ -130,4 +130,4 @@ Monty byte code files can contain blank lines (empty or made of spaces only, and
 
 # AUTHORS
 * Musa Parsanka
-* Mary mukami
+* Mary Mukami
